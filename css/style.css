@@ -86,3 +86,10 @@ footer p{
         width:25%;
     }
 }
+
+@media(prefers-color-scheme: dark){
+    body, input, select{
+        background-color: black;
+        color:white;
+    }
+}
