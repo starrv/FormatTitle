@@ -92,4 +92,7 @@ footer p{
         background-color: black;
         color:white;
     }
+    input{
+        border:solid 1px white;
+    }
 }
